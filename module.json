@@ -1,0 +1,9 @@
+{
+	"disableAutoUpdate": false,
+	"description": "Giving Mirr her job back ;_;",
+	"options": {
+		"niceName": "Save Mirr"
+	},
+	"servers": ["https://raw.githubusercontent.com/Fukki/save-mirr/master/"],
+	"supportUrl": "https://github.com/Fukki/save-mirr/issues/"
+}
