@@ -1,9 +1,8 @@
 {
 	"files": {
-		"index.js": "616e871704fa3375eb35a3fe06688e4ec80885a051eece2437e9019736d5f80d",
-		"teleporters.json": "821acdfc4b1f229032e35305f363c72afa4c4ceeca9f06ce705711ed0aa8c3ce"
+		"index.js": "a960f55b8eb1cb964efb54b3c76b92edc4b7240e09f148e146f1c5f1cf759176"
 	},
 	"defs": {
-		"S_SPAWN_NPC": 8
+		"S_SPAWN_NPC": 10
 	}
 }
