@@ -28,7 +28,7 @@ module.exports = function saveMIRR(mod) {
 		{"HuntingZoneId": 833, "ID": 1021}
 	];
 	
-	mod.hook('S_SPAWN_NPC', 10, e => {
+	mod.hook('S_SPAWN_NPC', 11, e => {
 		if(!e.villager) return;
 		if (teleporters.find(o => o.HuntingZoneId === e.huntingZoneId && o.ID === e.templateId)) {
 			e.huntingZoneId = 152;
