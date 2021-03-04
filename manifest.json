@@ -1,8 +1,8 @@
 {
 	"files": {
-		"index.js": "2b32d7d6ff07f16765e3c7276b633bee7ba532fdac330771b278a5a112a8bc2b"
+		"index.js": "7c62c5cc73f4277fc18eb0dc8b17dac5ecb0b2ddec29553d09d10f9fe3286f6f"
 	},
 	"defs": {
-		"S_SPAWN_NPC": 11
+		"S_SPAWN_NPC": 12
 	}
 }
